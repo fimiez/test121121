@@ -1,0 +1,32 @@
+/** Il s'agit de votre feuille de style perso et non lié à bootstrap, elle agit de manière indépendante **/
+
+.titre {
+    margin-bottom: 15px;
+}
+
+.tout-afficher {
+   margin-top: 5px; 
+}
+
+.tout-afficher a {
+    text-decoration: none;
+}
+
+.coups-de-coeur-liste {
+    font-size: 0.75em;
+}
+
+.affiche {
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.category {
+    margin-bottom: 0px;
+
+}
+
+hr {
+    opacity: 0.1;
+
+}
